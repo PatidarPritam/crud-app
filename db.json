@@ -21,25 +21,13 @@
       "firstName": "Pritam",
       "lastName": "patidar",
       "email": "pritampatidar29@gmail.com",
-      "dob": "2023-10-10T18:30:00.000Z",
+      "dob": "2023-10-15T18:30:00.000Z",
       "gender": "male",
       "education": "PostGraduate",
-      "company": "google",
-      "experience": 5,
-      "package": 6677677878,
+      "company": "xyz",
+      "experience": 6,
+      "package": 89000,
       "id": 1
-    },
-    {
-      "firstName": "Pritam",
-      "lastName": "patidar",
-      "email": "pritampatidar29@gmail.com",
-      "dob": "2023-10-03T18:30:00.000Z",
-      "gender": "male",
-      "education": "PostGraduate",
-      "company": "google",
-      "experience": 2,
-      "package": 25000000,
-      "id": 2
     }
   ]
 }
