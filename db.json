@@ -18,16 +18,40 @@
   },
   "employees": [
     {
-      "firstName": "Pritam",
+      "firstName": "pritam",
+      "lastName": "patidar1",
+      "email": "pritampatidar29@gmail.com",
+      "dob": "1998-04-28T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "self1",
+      "experience": 3,
+      "package": 25,
+      "id": 1
+    },
+    {
+      "firstName": "pritam",
       "lastName": "patidar",
       "email": "pritampatidar29@gmail.com",
-      "dob": "2023-10-15T18:30:00.000Z",
+      "dob": "1998-04-28T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "self",
+      "experience": 3,
+      "package": 2500,
+      "id": 2
+    },
+    {
+      "firstName": "pritam",
+      "lastName": "patidar",
+      "email": "pritampatidar29@gmail.com",
+      "dob": "2023-10-16T18:30:00.000Z",
       "gender": "male",
       "education": "PostGraduate",
-      "company": "xyz",
-      "experience": 6,
-      "package": 89000,
-      "id": 1
+      "company": "google",
+      "experience": 1,
+      "package": 1,
+      "id": 3
     }
   ]
 }
